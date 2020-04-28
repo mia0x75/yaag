@@ -4,9 +4,9 @@ import (
 	"log"
 	"strings"
 
-	"github.com/betacraft/yaag/middleware"
-	"github.com/betacraft/yaag/yaag"
-	"github.com/betacraft/yaag/yaag/models"
+	"github.com/mia0x75/yaag/middleware"
+	"github.com/mia0x75/yaag/yaag"
+	"github.com/mia0x75/yaag/yaag/models"
 	"github.com/gin-gonic/gin"
 )
 

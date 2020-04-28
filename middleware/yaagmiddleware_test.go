@@ -3,12 +3,12 @@ package middleware
 import (
 	"bytes"
 	"encoding/json"
-	"github.com/betacraft/yaag/yaag/models"
+	"github.com/mia0x75/yaag/yaag/models"
 	"net/http"
 	"net/http/httptest"
 	"testing"
 	"github.com/gorilla/websocket"
-	"github.com/betacraft/yaag/yaag"
+	"github.com/mia0x75/yaag/yaag"
 	"strings"
 	"os"
 )

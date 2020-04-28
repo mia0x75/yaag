@@ -2,8 +2,8 @@ package app
 
 import (
 	"github.com/revel/revel"
-	"github.com/betacraft/yaag/filters"
-	"github.com/betacraft/yaag/yaag"
+	"github.com/mia0x75/yaag/filters"
+	"github.com/mia0x75/yaag/yaag"
 )
 
 var (
